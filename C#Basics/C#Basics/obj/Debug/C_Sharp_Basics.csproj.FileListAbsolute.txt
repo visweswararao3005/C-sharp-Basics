@@ -1,0 +1,14 @@
+C:\Users\viswe\source\repos\C#Basics\C#Basics\bin\Debug\C#Basics.exe.config
+C:\Users\viswe\source\repos\C#Basics\C#Basics\bin\Debug\C#Basics.exe
+C:\Users\viswe\source\repos\C#Basics\C#Basics\bin\Debug\C#Basics.pdb
+C:\Users\viswe\source\repos\C#Basics\C#Basics\obj\Debug\C_Sharp_Basics.csproj.AssemblyReference.cache
+C:\Users\viswe\source\repos\C#Basics\C#Basics\obj\Debug\C_Sharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\viswe\source\repos\C#Basics\C#Basics\obj\Debug\C#Basics.exe
+C:\Users\viswe\source\repos\C#Basics\C#Basics\obj\Debug\C#Basics.pdb
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\bin\Debug\C#Basics.exe.config
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\bin\Debug\C#Basics.exe
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\bin\Debug\C#Basics.pdb
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\obj\Debug\C_Sharp_Basics.csproj.AssemblyReference.cache
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\obj\Debug\C_Sharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\obj\Debug\C#Basics.exe
+C:\Users\viswe\OneDrive\Desktop\DotNet\C#Basics\C#Basics\obj\Debug\C#Basics.pdb
